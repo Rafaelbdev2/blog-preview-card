@@ -1,0 +1,22 @@
+.post__card {
+    width: 384px;
+    height: 522px;
+}
+.post__img {
+    width: 336px;
+    height: 200px;
+}
+.post__category{
+    font-size: 1.4rem;
+    width: 82px;
+    height: 29px;
+}
+.post__date {
+    font-size: 1.4rem;
+}
+.post__title{
+    font-size: 2.4rem;
+}
+.post__summary{
+    font-size: 1.6rem;
+}
