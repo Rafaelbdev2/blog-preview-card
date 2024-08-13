@@ -25,7 +25,7 @@ body {
     background-color: var(--white);
     width: 327px;
     height: 501px;
-    margin: 156px auto;
+    margin: 10vh auto;
     padding: 24px;
     border-radius: 20px;
     /* border-right: solid var(--Dark-Gray) 6px calc(-5px top);
